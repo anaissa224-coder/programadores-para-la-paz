@@ -1,0 +1,13 @@
+git config --global user.email "anaissa224@gmail.com"
+git config --global user.name "anaissa224-coder"
+
+git init
+git branch -M main
+
+git add .
+git commit -m "Programadores para la paz"
+
+git remote remove origin
+git remote add origin https://github.com/anaissa224-coder/programadores-para-la-paz.git
+
+git push -u origin main
