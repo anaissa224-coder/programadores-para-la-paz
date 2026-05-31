@@ -1,0 +1,8 @@
+Las APIs son herramientas fundamentales para la organización comunitaria porque permiten conectar
+diferentes aplicaciones y centralizar la información en un solo lugar. En un entorno local, facilitan
+que plataformas como aplicaciones móviles, páginas web o canales de mensajería compartan reportes,
+alertas de seguridad o incidencias en tiempo real de forma unificada. Esto elimina por completo el
+desorden de los grupos de chat tradicionales, ordenando los datos de los ciudadanos en categorías
+claras y evitando la duplicidad de reportes. Al automatizar estos flujos de información, las APIs
+mejoran los tiempos de respuesta ante emergencias, promueven la transparencia en la gestión de problemas
+locales y garantizan que toda la comunidad acceda a datos importantes de manera rápida, segura y organizada.
